@@ -7,7 +7,7 @@ from chatterbot.ext.django_chatterbot.factories import (
 )
 from chatterbot.ext.django_chatterbot.models import (
     Statement as StatementModel,
-    Response as ResponseModel
+    Response as ResponseModel,
 )
 
 
